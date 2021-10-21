@@ -1,4 +1,4 @@
-### Hi there I'm [Gianluca](https://www.unibo.it/sitoweb/gianluca.bianco4/)! 👋
+### Hi there, I'm [Gianluca](https://www.unibo.it/sitoweb/gianluca.bianco4/)! 👋
 <img src="https://github.com/JustWhit3/JustWhit3/blob/main/img/deadpool-wave.gif">
 
 I'm a particle physics PhD student at University of Bologna and associate member of INFN. I currently works for the ATLAS experiment at CERN.
