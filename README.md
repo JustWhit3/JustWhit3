@@ -12,7 +12,7 @@ My stats:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true)](https://github.com/JustWhit3/github-readme-stats)
 
-My languages:
+Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/JustWhit3/github-readme-stats)
 
