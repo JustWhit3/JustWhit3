@@ -20,3 +20,7 @@ Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip)](https://github.com/JustWhit3/osmanip)
 
+Projects that need to be updated soon:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=matrixop)](https://github.com/JustWhit3/matrixop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=higgs-decay-classification)](https://github.com/JustWhit3/higgs-decay-classification)
