@@ -10,11 +10,11 @@ On GitHub I host all my personal projects which I develope in my free time just 
 
 My stats:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&include_all_commits=true)](https://github.com/JustWhit3/github-readme-stats)
 
 Languages and tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
 
 Currently working on:
 
