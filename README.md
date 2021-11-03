@@ -19,7 +19,3 @@ Languages and tools:
 Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
-
-Projects that need to be updated soon:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=higgs-decay-classification&theme=algolia)](https://github.com/JustWhit3/higgs-decay-classification)
