@@ -19,3 +19,7 @@ Languages and tools:
 Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
+
+My [Wakatime](https://wakatime.com/@JustWhit3) stats:
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
