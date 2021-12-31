@@ -14,7 +14,7 @@ My stats:
 
 Languages and tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
 
 Currently working on:
 
