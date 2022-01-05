@@ -12,14 +12,10 @@ My stats:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&include_all_commits=true)](https://github.com/JustWhit3/github-readme-stats)
 
-Languages and tools:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
 
 Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
-
-My [Wakatime](https://wakatime.com/@JustWhit3) stats:
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
