@@ -4,9 +4,10 @@
 I'm a particle physics PhD student at University of Bologna and associate member of INFN. I am currently working for the ATLAS experiment at CERN.
 
 Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco), on GitHub I put all my personal projects which I develope in my free time, just for fun.
-- 💬 Write me DM if you want to collaborate with one of my projects or if you need help with yours.
-- :arrow_up: You can of course clone projects, raise issues and submit pull requests if you think something of my repositories should be changed.
-- 📫 How to reach me: gianluca.bianco4@unibo.it
+- 📫 **To contact me**: send me an [email](mailto:gianluca.bianco4@unibo.it).
+- 💬 **To collaborate**: submit a pull request or contact me.
+- :arrow_up: **Find a bug in my projects**: raise an issue.
+- :collision: **Favourite tools**: c++, Python and Bash.
 
 My stats:
 
