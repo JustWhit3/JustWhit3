@@ -7,7 +7,6 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 - 📫 **To contact me**: send me an [email](mailto:gianluca.bianco4@unibo.it).
 - 💬 **To collaborate**: submit a pull request or contact me.
 - :arrow_up: **Find a bug in my projects**: raise an issue.
-- :collision: **Favourite tools**: c++, Python and Bash.
 
 My stats:
 
