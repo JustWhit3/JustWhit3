@@ -15,7 +15,7 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ### :link: Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-bianco-6274601b2/ "Linkedin") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17026489/gianluca-bianco "Stack Overflow") [![Research Gate](https://img.shields.io/badge/-ResearchGate-black?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gianluca-Bianco-2 "Research Gate")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-bianco-6274601b2/ "Linkedin") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17026489/gianluca-bianco "Stack Overflow") [![Research Gate](https://img.shields.io/badge/-ResearchGate-black?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gianluca-Bianco-2 "Research Gate") [![University](https://img.shields.io/badge/-University-black?style=for-the-badge&logo=academia&logoColor=white)](https://www.unibo.it/sitoweb/gianluca.bianco4/ "University")
 
 ***
 
