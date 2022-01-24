@@ -23,7 +23,7 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,JustWhit3.github.io&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&include_all_commits=False&exclude_repo=JustWhit3.github.io)](https://github.com/JustWhit3/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&exclude_repo=JustWhit3.github.io)](https://github.com/JustWhit3/github-readme-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
 
