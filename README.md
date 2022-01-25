@@ -11,6 +11,10 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 - 💬 To collaborate, send a **pull request**, **fork** one of my repo or **contact me**.
 - :arrow_up: Found a bug in one of my projects? Open an issue.
 
+All my softwares are for free, but if you want to support me you can: 
+
+<a href="https://www.buymeacoffee.com/JustWhit33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ***
 
 ### :link: Links
