@@ -47,8 +47,8 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ### :page_facing_up: My last 3 scientific publications
 
-1) [Software training in HEP](https://www.researchgate.net/publication/355164173_Software_Training_in_HEP)
-2) [Study of the quantum interference between singly and doubly resonant top-quark production in proton-proton collisions at the LHC with the ATLAS detector](https://www.researchgate.net/publication/348806406_Study_of_the_quantum_interference_between_singly_and_doubly_resonant_top-quark_production_in_proton-proton_collisions_at_the_LHC_with_the_ATLAS_detector)
+1) [A method for the study of the quantum interference between singly and doubly resonant top-quark production in proton-proton collisions at the LHC with the ATLAS detector](https://www.researchgate.net/publication/358411858_A_method_for_the_study_of_the_quantum_interference_between_singly_and_doubly_resonant_top-quark_production_in_proton-proton_collisions_at_the_LHC_with_the_ATLAS_detector)
+2) [Software training in HEP](https://www.researchgate.net/publication/355164173_Software_Training_in_HEP)
 3) [Tandem Project Report: Classification in particle physics using machine learning](https://www.researchgate.net/publication/344397759_Tandem_Project_Report_Classification_in_particle_physics_using_machine_learning)
 
 ***
