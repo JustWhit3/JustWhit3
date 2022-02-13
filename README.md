@@ -37,11 +37,11 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ### :collision: Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=WaveNCC&theme=algolia)](https://github.com/JustWhit3/WaveNCC)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=SAFD-algorithm&theme=algolia)](https://github.com/JustWhit3/SAFD-algorithm)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=WaveNCC&theme=algolia)](https://github.com/JustWhit3/WaveNCC)
 
 ***
 
