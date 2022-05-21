@@ -59,4 +59,10 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ***
 
+### :computer: StackOverflow
+
+[![Gianluca Bianco StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17026489)]([https://stackoverflow.com/users/6558042/omid-nikrah](https://stackoverflow.com/users/17026489/gianluca-bianco))
+
+***
+
 <h4 align="center">If you like a repo, don't forget to leave a star! :star:</h4>
