@@ -39,7 +39,9 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear&theme=algolia)](https://github.com/JustWhit3/arsenalgear)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia)](https://github.com/JustWhit3/arsenalgear-py)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia)](https://github.com/JustWhit3/arsenalgear-cpp)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=SAFD-algorithm&theme=algolia)](https://github.com/JustWhit3/SAFD-algorithm)
 
