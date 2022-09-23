@@ -44,9 +44,9 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 <p align="center"><b>Personal Projects</b></br></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia" width = "270">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "270">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=IGStatTools&theme=algolia" width = "270">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia" width = "280">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "280">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=IGStatTools&theme=algolia" width = "280">
 </p>
 
 <p align="center"><b>Maintaining projects</b></br></p>
