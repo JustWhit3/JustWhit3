@@ -37,11 +37,25 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ### :collision: Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia)](https://github.com/JustWhit3/osmanip)
+<p align="center"><b>Working Projects</b></br></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=DCSAnalysisTools&theme=algolia">
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia)](https://github.com/JustWhit3/ptc-print)
+<p align="center"><b>Personal Projects</b></br></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=IGStatTools&theme=algolia">
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=IGStatTools&theme=algolia)](https://github.com/JustWhit3/IGStatTools)
+<p align="center"><b>Maintaining projects</b></br></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=root-framework-installer&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia">
+</p>
 
 ***
 
@@ -53,15 +67,12 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 ***
 
-### :trophy: GitHub trophies
+### :trophy: GitHub trophies and StackOverflow
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JustWhit3&row=2&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-***
-
-### :computer: StackOverflow
-
-[![Gianluca Bianco StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17026489)]([https://stackoverflow.com/users/6558042/omid-nikrah](https://stackoverflow.com/users/17026489/gianluca-bianco))
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JustWhit3&row=2&column=3&theme=algolia" width = "450">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=17026489">
+</p>
 
 ***
 
