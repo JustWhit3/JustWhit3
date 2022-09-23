@@ -39,7 +39,7 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 <p align="center"><b>Working Projects</b></br></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=DCSAnalysisTools&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=DCSAnalysisTools&theme=algolia" width = "310">
 </p>
 
 <p align="center"><b>Personal Projects</b></br></p>
@@ -51,10 +51,10 @@ Since my working projects are hosted on [GitLab](https://gitlab.cern.ch/gbianco)
 
 <p align="center"><b>Maintaining projects</b></br></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=root-framework-installer&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=root-framework-installer&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "310">
 </p>
 
 ***
