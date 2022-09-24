@@ -41,7 +41,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 <h3 align="center">:collision: Currently working on</h3>
 
-<p align="center"><b>Personal Projects</b></br></p>
+<p align="center"><b>Active Projects</b></br></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "310">
