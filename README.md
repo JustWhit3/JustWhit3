@@ -3,7 +3,7 @@
 
 <h3 align="center">:information_source: Some info</h3>
 
-I'm a particle physics PhD student at University of Bologna and associate member of INFN. I am currently working for the ATLAS experiment at CERN. My research topics are related to top quark physics analyses and offline data analysis for the ATLAS RPC detector.
+I'm a particle physics PhD student at University of Bologna and associate member of INFN. I am currently working for the ATLAS experiment at CERN. My research topics are related to top quark physics analyses and offline data analysis for the ATLAS RPC detector. My working projects are hosted on [GitLab](https://gitlab.cern.ch/users/gbianco/projects), while my personal projects stay here, on GitHub.
 
 - 📫 To contact me send an [**email**](mailto:gianluca.bianco4@unibo.it).
 - 💬 For collaborations send a **pull request** or **fork** one of my repo.
