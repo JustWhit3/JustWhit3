@@ -39,7 +39,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:collision: Open projects on</h3>
+<h3 align="center">:collision: Open projects</h3>
 
 <p align="center"><b>Currently working on</b></br></p>
 <p align="center">
