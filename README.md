@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm <a href="https://justwhit3.github.io/">Gianluca</a>! :wave:<br/><br/>
 <img src="https://github.com/JustWhit3/JustWhit3/blob/main/img/deadpool-wave.gif"></h2>
 
-<h3 align="center">:information_source: Some info</h3>
+<h3 align="center">:information_source: Some info :information_source:</h3>
 
 I'm a particle physics PhD student at University of Bologna and associate member of INFN. I am currently working for the ATLAS experiment at CERN. My research topics are related to top quark physics analyses and offline data analysis for the ATLAS RPC detector. My working projects are hosted on [GitLab](https://gitlab.cern.ch/users/gbianco/projects), while my personal projects stay here, on GitHub.
 
@@ -11,7 +11,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:coffee: Support me</h3>
+<h3 align="center">:coffee: Support me :coffee:</h3>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/JustWhit33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -19,7 +19,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:link: Links</h3>
+<h3 align="center">:link: Links :link:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gianluca-bianco-6274601b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -29,7 +29,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:chart_with_upwards_trend: My stats</h3>
+<h3 align="center">:chart_with_upwards_trend: My stats :chart_with_upwards_trend:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,JustWhit3.github.io&theme=algolia" width = "415">
@@ -39,7 +39,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:collision: Open projects</h3>
+<h3 align="center">:collision: Open projects :collision:</h3>
 
 <p align="center"><b>Currently working on</b></br></p>
 <p align="center">
@@ -58,7 +58,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:page_facing_up: My last 3 scientific publications</h3>
+<h3 align="center">:page_facing_up: My last scientific publications :page_facing_up:</h3>
 
 1) [A method for the study of the quantum interference between singly and doubly resonant top-quark production in proton-proton collisions at the LHC with the ATLAS detector](https://www.researchgate.net/publication/358411858_A_method_for_the_study_of_the_quantum_interference_between_singly_and_doubly_resonant_top-quark_production_in_proton-proton_collisions_at_the_LHC_with_the_ATLAS_detector)
 2) [Software training in HEP](https://www.researchgate.net/publication/355164173_Software_Training_in_HEP)
@@ -66,7 +66,7 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:trophy: GitHub trophies and StackOverflow</h3>
+<h3 align="center">:trophy: Trophies and StackOverflow :trophy:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JustWhit3&row=2&column=3&theme=algolia" width = "450">
