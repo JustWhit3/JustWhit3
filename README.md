@@ -66,10 +66,17 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
-<h3 align="center">:trophy: Trophies and StackOverflow :trophy:</h3>
+<h3 align="center">:trophy: Trophies :trophy:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JustWhit3&row=2&column=3&theme=algolia" width = "450">
+</p>
+
+***
+
+<h3 align="center">	:computer: StackOverflow 	:computer:</h3>
+
+<p align="center">
   <a href="https://stackoverflow.com/users/17026489/gianluca-bianco" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17026489"></a>
 </p>
 
