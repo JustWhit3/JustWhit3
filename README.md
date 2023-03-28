@@ -57,7 +57,6 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 <p align="center"><b>Maintaining</b></br></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=snake-game&theme=algolia" width = "310"><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "310">
