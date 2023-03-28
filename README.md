@@ -39,6 +39,12 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
+<h3 align="center">:chart_with_upwards_trend: 3D profile statistics graph :chart_with_upwards_trend:</h3>
+
+<img src="https://github.com/JustWhit3/JustWhit3/blob/main/profile-3d-contrib/profile-season.svg">
+
+***
+
 <h3 align="center">:collision: Open projects :collision:</h3>
 
 <p align="center"><b>Currently working on</b></br></p>
