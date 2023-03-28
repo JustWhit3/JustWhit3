@@ -32,8 +32,8 @@ I'm a particle physics PhD student at University of Bologna and associate member
 <h3 align="center">:chart_with_upwards_trend: My stats :chart_with_upwards_trend:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,JustWhit3.github.io&theme=algolia" width = "415">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&exclude_repo=JustWhit3.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustWhit3&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,JustWhit3.github.io&theme=algolia" width = "415"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JustWhit3&show_icons=true&count_private=true&theme=algolia&exclude_repo=JustWhit3.github.io"><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia">
 </p>
 
