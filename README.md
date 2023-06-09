@@ -9,6 +9,8 @@ I'm a particle physics PhD student at University of Bologna and associate member
 - 💬 For collaborations send a **pull request** or **fork** one of my repo.
 - :arrow_up: Found a bug in one of my projects? Open an issue.
 
+![](https://komarev.com/ghpvc/?username=JustWhit3&style=plastic)
+
 ***
 
 <h3 align="center">:coffee: Support me :coffee:</h3>
