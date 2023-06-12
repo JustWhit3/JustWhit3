@@ -21,6 +21,17 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ***
 
+<h3 align="center">:coffee: Tools :coffee:</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Ubuntu-blue?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/Code-C++-blue?&logo=C++" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?&logo=Python" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
+***
+
 <h3 align="center">:link: Links :link:</h3>
 
 <p align="center">
