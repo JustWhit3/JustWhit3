@@ -70,10 +70,10 @@ I'm a particle physics PhD student at University of Bologna and associate member
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=key-manager&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia" width = "310">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "310">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "310">
 </p>
 
 ***
