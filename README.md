@@ -3,7 +3,13 @@
 
 <h3 align="center">:information_source: Some info :information_source:</h3>
 
-I'm a particle physics PhD student at University of Bologna and associate member of INFN. I am currently working for the ATLAS experiment at CERN. My research topics are related to top quark physics analyses and offline data analysis for the ATLAS RPC detector. My working projects are hosted on [GitLab](https://gitlab.cern.ch/users/gbianco/projects), while my personal projects stay here, on GitHub.
+I'm a PhD student in particle physics at the [University of Bologna](https://www.unibo.it/it) and associate member of [INFN](https://home.infn.it/it/). I am currently working for the [ATLAS detector](https://atlas.cern/) experiment at [CERN](https://home.cern/). My research topics are related to the following fields:
+
+- Investigation of top-quark properties through the analysis of data sampled by the ATLAS detector.
+- Usage of quantum computing to boost particle physics researches.
+- Development of software tools to monitor the ALTAS RPC detector performance using the DCS data.
+
+During my free time I am also an active open-source developer:
 
 - 📫 To contact me send an [**email**](mailto:gianluca.bianco4@unibo.it).
 - 💬 For collaborations send a **pull request** or **fork** one of my repo.
@@ -11,13 +17,9 @@ I'm a particle physics PhD student at University of Bologna and associate member
 
 ![](https://komarev.com/ghpvc/?username=JustWhit3&style=plastic)
 
-***
+If you want to support me you can buy me a coffee!
 
-<h3 align="center">:coffee: Support me :coffee:</h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/JustWhit33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+<a href="https://www.buymeacoffee.com/JustWhit33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ***
 
