@@ -65,7 +65,7 @@ If you want to support me you can buy me a coffee!
 <p align="center"><b>Currently working on</b></br></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=QUnfold&theme=algolia" width = "310">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=IGStatTools&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=PyXSec&theme=algolia" width = "310">
 </p>
 
 <p align="center"><b>Maintaining</b></br></p>
