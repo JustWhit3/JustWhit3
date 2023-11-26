@@ -60,9 +60,8 @@ If you want to support me you can buy me a coffee!
 
 ***
 
-<h3 align="center">:collision: currently working on :collision:</h3>
+<h3 align="center">:collision: Currently working on :collision:</h3>
 
-<p align="center"><b>Currently working on</b></br></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=QUnfold&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=PyXSec&theme=algolia" width = "310">
@@ -85,3 +84,5 @@ If you want to support me you can buy me a coffee!
 </p>
 
 ***
+
+<h4 align="center">If you like a repo, don't forget to leave a star! :star:</h4>
