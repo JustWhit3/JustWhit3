@@ -60,23 +60,12 @@ If you want to support me you can buy me a coffee!
 
 ***
 
-<h3 align="center">:collision: Open projects :collision:</h3>
+<h3 align="center">:collision: currently working on :collision:</h3>
 
 <p align="center"><b>Currently working on</b></br></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=QUnfold&theme=algolia" width = "310">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=PyXSec&theme=algolia" width = "310">
-</p>
-
-<p align="center"><b>Maintaining</b></br></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=key-manager&theme=algolia" width = "310">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=osmanip&theme=algolia" width = "310">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "310">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "310">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=ptc-print&theme=algolia" width = "310">
 </p>
 
 ***
@@ -96,13 +85,3 @@ If you want to support me you can buy me a coffee!
 </p>
 
 ***
-
-<h3 align="center">	:computer: StackOverflow 	:computer:</h3>
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/17026489/gianluca-bianco" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17026489"></a>
-</p>
-
-***
-
-<h4 align="center">If you like a repo, don't forget to leave a star! :star:</h4>
