@@ -60,11 +60,14 @@ If you want to support me you can buy me a coffee!
 
 ***
 
-<h3 align="center">Currently working on</h3>
+<h3 align="center">Projects</h3>
+
+<h4 align="center">Quantum computing</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=QUnfold&theme=algolia" width = "310">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=PyXSec&theme=algolia" width = "310">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=QUnfold&theme=algolia" width = "300">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=PyXSec&theme=algolia" width = "300">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=quantum-computing-resources&theme=algolia" width = "300">
 </p>
 
 ***
