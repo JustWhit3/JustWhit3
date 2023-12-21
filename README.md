@@ -92,6 +92,7 @@ If you want to support me you can buy me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "300">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "300"><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=root-framework-installer&theme=algolia" width = "300">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=generic-ostream-iterator&theme=algolia" width = "300">
 </p>
 
 <h4 align="center">Games</h4>
@@ -113,7 +114,15 @@ If you want to support me you can buy me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=my-scripts&theme=algolia" width = "300">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=dotfiles&theme=algolia" width = "300"><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=docker-images-files&theme=algolia" width = "300">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia" width = "300">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=useful-guides&theme=algolia" width = "300"><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=exercises&theme=algolia" width = "300">
+</p>
+
+<h4 align="center">Other</h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=JustWhit3&theme=algolia" width = "300">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=JustWhit3.github.io&theme=algolia" width = "300">
 </p>
 
 ***
