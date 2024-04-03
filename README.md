@@ -92,7 +92,7 @@ If you want to support me you can buy me a coffee!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-cpp&theme=algolia" width = "300">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=arsenalgear-py&theme=algolia" width = "300"><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=root-framework-installer&theme=algolia" width = "300">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=generic-ostream-iterator&theme=algolia" width = "300">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustWhit3&repo=cppfetch&theme=algolia" width = "300">
 </p>
 
 <h4 align="center">Games</h4>
