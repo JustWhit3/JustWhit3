@@ -34,16 +34,6 @@ If you want to support me you can buy me a coffee!
 
 ***
 
-<h3 align="center">Links to my webpages</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gianluca-bianco-6274601b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Gianluca-Bianco-2" target="_blank"><img src="https://img.shields.io/badge/-ResearchGate-black?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-  <a href="https://www.unibo.it/sitoweb/gianluca.bianco4/" target="_blank"><img src="https://img.shields.io/badge/-University-black?style=for-the-badge&logo=academia&logoColor=white"></a>
-</p>
-
-***
-
 <h3 align="center">My statistics</h3>
 
 <p align="center">
