@@ -130,12 +130,6 @@ If you want to support me you can buy me a coffee!
 
 <h3 align="center">Contributing projects</h3>
 
-<h4 align="center">Quantum computing</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qiskit&repo=qiskit-aer&theme=algolia" width = "300">
-</p>
-
 <h4 align="center">Utility</h4>
 
 <p align="center">
