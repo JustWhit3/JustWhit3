@@ -23,17 +23,6 @@ If you want to support me you can buy me a coffee!
 
 ***
 
-<h3 align="center">Tools I use</h3>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/OS-Ubuntu-blue?&logo=ubuntu" />
-    <img src="https://img.shields.io/badge/Code-C++-blue?&logo=C++" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?&logo=Python" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
-***
-
 <h3 align="center">My statistics</h3>
 
 <p align="center">
