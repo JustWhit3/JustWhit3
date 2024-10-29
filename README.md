@@ -3,11 +3,11 @@
 
 <h3 align="center">Some information</h3>
 
-I'm a PhD student in particle physics at the [University of Bologna](https://www.unibo.it/it) and associate member of [INFN](https://home.infn.it/it/). I am currently working for the [ATLAS detector](https://atlas.cern/) experiment at [CERN](https://home.cern/). My research topics are related to the following fields:
+I'm an R&D software engineer with a PhD in physics and was previously a member of [CERN](https://home.cern/). I am interested in the following areas:
 
-- Investigation of top-quark properties through the analysis of data sampled by the ATLAS detector.
-- Usage of quantum computing to boost particle physics researches.
-- Development of software tools to monitor the ALTAS RPC detector performance using the DCS data.
+- Quantum computing
+- Game development
+- Software engineering
 
 During my free time I am also an active open-source developer:
 
